@@ -28,7 +28,7 @@ const Main = styled(motion.ul)`
 
   height: 40vh;
   display: flex;
-
+  width: 2000px;
   color: white;
 `;
 const Rotate = styled.span`
